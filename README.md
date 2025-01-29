@@ -12,7 +12,7 @@ Sha3-256: 36 hashes in 5 minutes
 Sha2-256: 53 hashes in 5 minutes
 ```
 
-Difficulty:
+Difficulty:  
 6 would take 5 minutes for average ASIC to mine (Blake2b)  
 7 would take about a day for an ASIC to mine (Blake2b)  
 8 would take about a year for an ASIC to mine (Blake2b)  
