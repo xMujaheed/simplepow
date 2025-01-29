@@ -13,8 +13,11 @@ Sha2-256: 53 hashes in 5 minutes
 ```
 
 Difficulty:
+
 6 would take 5 minutes for average ASIC to mine (Blake2b)
+
 7 would take about a day for an ASIC to mine (Blake2b)
+
 8 would take about a year for an ASIC to mine (Blake2b)
 
 In current code difficulty is set to 3 which allows it to generate hashes very frequently (around 0.5 hashes per second for blake2b)
