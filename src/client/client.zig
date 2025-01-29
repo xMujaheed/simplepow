@@ -11,7 +11,7 @@ pub fn main() !void {
     var timer = try std.time.Timer.start();
 
     var mined_hashes: u16 = 0;
-    // Runs indefinitely
+
     while (timer.read() < duration) {
         // Generates random hex string to hash
         const input = blk: {
